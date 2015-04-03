@@ -1,0 +1,12 @@
+{
+  "name": "lol-pics",
+  "version": "0.0.1",
+  "description": "picture hosting platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
